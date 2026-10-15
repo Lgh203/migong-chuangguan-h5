@@ -1,5 +1,7 @@
 window.boot = function () {
     var settings = window._CCSettings;
+    cc.assetManager.downloader.maxConcurrency = 24;
+    cc.assetManager.downloader.maxRequestsPerFrame = 24;
     window._CCSettings = undefined;
     var onProgress = null;
     
@@ -55,8 +57,8 @@ window.boot = function () {
         // more tasks simultaneously may cause performance draw back on some android system / browsers.
         // You can adjust the number based on your own test result, you have to set it before any loading process to take effect.
         if (cc.sys.isBrowser && cc.sys.os === cc.sys.OS_ANDROID) {
-            cc.assetManager.downloader.maxConcurrency = 2;
-            cc.assetManager.downloader.maxRequestsPerFrame = 2;
+            cc.assetManager.downloader.maxConcurrency = 12;
+            cc.assetManager.downloader.maxRequestsPerFrame = 12;
         }
 
         var launchScene = settings.launchScene;
