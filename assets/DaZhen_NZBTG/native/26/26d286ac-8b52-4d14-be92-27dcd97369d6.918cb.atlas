@@ -1,0 +1,55 @@
+
+wuxian.png
+size: 150,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 2, 2
+  size: 82, 76
+  orig: 84, 78
+  offset: 1, 1
+  index: -1
+shnag
+  rotate: true
+  xy: 98, 80
+  size: 69, 50
+  orig: 71, 52
+  offset: 1, 1
+  index: -1
+tili1
+  rotate: false
+  xy: 30, 91
+  size: 25, 29
+  orig: 27, 31
+  offset: 1, 1
+  index: -1
+tili2
+  rotate: false
+  xy: 2, 86
+  size: 26, 34
+  orig: 28, 36
+  offset: 1, 1
+  index: -1
+tili3
+  rotate: true
+  xy: 57, 95
+  size: 25, 29
+  orig: 27, 31
+  offset: 1, 1
+  index: -1
+xia
+  rotate: true
+  xy: 86, 11
+  size: 67, 59
+  orig: 69, 61
+  offset: 1, 1
+  index: -1
+zi
+  rotate: false
+  xy: 2, 122
+  size: 94, 27
+  orig: 96, 29
+  offset: 1, 1
+  index: -1

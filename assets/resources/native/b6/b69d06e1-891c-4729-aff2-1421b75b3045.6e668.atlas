@@ -1,0 +1,76 @@
+
+loading.png
+size: 1829,722
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baidi
+  rotate: false
+  xy: 1515, 101
+  size: 228, 261
+  orig: 230, 261
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: true
+  xy: 1, 1
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+blue
+  rotate: false
+  xy: 1283, 399
+  size: 514, 322
+  orig: 514, 322
+  offset: 0, 0
+  index: -1
+kuang1
+  rotate: false
+  xy: 1283, 97
+  size: 230, 265
+  orig: 440, 352
+  offset: 102, 46
+  index: -1
+lang
+  rotate: false
+  xy: 1283, 364
+  size: 545, 33
+  orig: 545, 33
+  offset: 0, 0
+  index: -1
+loading
+  rotate: false
+  xy: 1283, 52
+  size: 145, 43
+  orig: 145, 43
+  offset: 0, 0
+  index: -1
+paopao
+  rotate: false
+  xy: 1799, 703
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+point1
+  rotate: false
+  xy: 1745, 355
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+point2
+  rotate: false
+  xy: 1283, 43
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+point3
+  rotate: false
+  xy: 1430, 88
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1

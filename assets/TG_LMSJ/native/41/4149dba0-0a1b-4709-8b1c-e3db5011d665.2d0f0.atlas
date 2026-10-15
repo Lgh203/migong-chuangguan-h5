@@ -1,0 +1,62 @@
+
+jiesuandh.png
+size: 633,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai1
+  rotate: false
+  xy: 1, 1
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 598, 13
+  size: 34, 39
+  orig: 34, 40
+  offset: 0, 1
+  index: -1
+piaodai3
+  rotate: true
+  xy: 122, 13
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+piaodai4
+  rotate: true
+  xy: 90, 14
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+piaodai5
+  rotate: false
+  xy: 35, 2
+  size: 24, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+piaodai6
+  rotate: false
+  xy: 61, 7
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+piaodai7
+  rotate: false
+  xy: 522, 1
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+xiannn1
+  rotate: true
+  xy: 1, 33
+  size: 19, 519
+  orig: 19, 547
+  offset: 0, 25
+  index: -1

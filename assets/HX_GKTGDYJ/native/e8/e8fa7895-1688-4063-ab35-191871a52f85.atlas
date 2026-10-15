@@ -1,0 +1,55 @@
+
+jiesuanyedh.png
+size: 138,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai1
+  rotate: false
+  xy: 77, 1
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 77, 33
+  size: 34, 39
+  orig: 34, 40
+  offset: 0, 1
+  index: -1
+piaodai3
+  rotate: true
+  xy: 1, 1
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+piaodai4
+  rotate: true
+  xy: 31, 2
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+piaodai5
+  rotate: false
+  xy: 111, 2
+  size: 24, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+piaodai6
+  rotate: true
+  xy: 113, 45
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+piaodai7
+  rotate: false
+  xy: 1, 21
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1

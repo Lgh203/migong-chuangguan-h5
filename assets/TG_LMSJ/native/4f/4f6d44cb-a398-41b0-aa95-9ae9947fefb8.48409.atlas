@@ -1,0 +1,13 @@
+
+quanDH.png
+size: 233,233
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan
+  rotate: false
+  xy: 1, 1
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1

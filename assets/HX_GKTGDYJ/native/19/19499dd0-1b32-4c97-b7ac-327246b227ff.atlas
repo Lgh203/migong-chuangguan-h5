@@ -1,0 +1,48 @@
+
+face_fail.png
+size: 284,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face
+  rotate: true
+  xy: 2, 2
+  size: 242, 243
+  orig: 242, 243
+  offset: 0, 0
+  index: -1
+mm_you
+  rotate: true
+  xy: 247, 205
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+mm_zuo
+  rotate: true
+  xy: 247, 164
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+yj_you
+  rotate: true
+  xy: 247, 99
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+yj_zuo
+  rotate: true
+  xy: 247, 34
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+zb
+  rotate: true
+  xy: 269, 93
+  size: 69, 13
+  orig: 69, 13
+  offset: 0, 0
+  index: -1

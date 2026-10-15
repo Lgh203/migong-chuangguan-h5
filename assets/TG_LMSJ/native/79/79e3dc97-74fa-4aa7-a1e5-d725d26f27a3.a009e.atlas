@@ -1,0 +1,97 @@
+
+jianciDH.png
+size: 124,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci1
+  rotate: false
+  xy: 1, 1
+  size: 33, 59
+  orig: 33, 67
+  offset: 0, 3
+  index: -1
+ci2
+  rotate: false
+  xy: 1, 1
+  size: 33, 59
+  orig: 33, 67
+  offset: 0, 3
+  index: -1
+ci3
+  rotate: false
+  xy: 1, 1
+  size: 33, 59
+  orig: 33, 67
+  offset: 0, 3
+  index: -1
+ci4
+  rotate: false
+  xy: 1, 1
+  size: 33, 59
+  orig: 33, 67
+  offset: 0, 3
+  index: -1
+ci5
+  rotate: false
+  xy: 1, 1
+  size: 33, 59
+  orig: 33, 67
+  offset: 0, 3
+  index: -1
+ci6
+  rotate: false
+  xy: 1, 1
+  size: 33, 59
+  orig: 33, 67
+  offset: 0, 3
+  index: -1
+hood1
+  rotate: false
+  xy: 36, 43
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+hood2
+  rotate: false
+  xy: 36, 24
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+hood3
+  rotate: false
+  xy: 36, 5
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+hood4
+  rotate: false
+  xy: 75, 25
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+hood5
+  rotate: false
+  xy: 76, 43
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+hood6
+  rotate: false
+  xy: 75, 6
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+hood7
+  rotate: false
+  xy: 1, 62
+  size: 122, 69
+  orig: 127, 88
+  offset: 0, 19
+  index: -1

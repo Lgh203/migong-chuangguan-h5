@@ -1,0 +1,69 @@
+
+baozhaDH.png
+size: 526,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhaozha_1
+  rotate: false
+  xy: 440, 13
+  size: 43, 53
+  orig: 44, 53
+  offset: 1, 0
+  index: -1
+zhaozha_2
+  rotate: true
+  xy: 383, 10
+  size: 56, 55
+  orig: 59, 59
+  offset: 1, 2
+  index: -1
+zhaozha_3
+  rotate: false
+  xy: 138, 2
+  size: 63, 64
+  orig: 66, 66
+  offset: 2, 1
+  index: -1
+zhaozha_4
+  rotate: false
+  xy: 70, 1
+  size: 66, 65
+  orig: 69, 68
+  offset: 1, 1
+  index: -1
+zhaozha_5
+  rotate: true
+  xy: 1, 1
+  size: 65, 67
+  orig: 68, 68
+  offset: 2, 0
+  index: -1
+zhaozha_6
+  rotate: true
+  xy: 203, 4
+  size: 62, 58
+  orig: 70, 59
+  offset: 8, 0
+  index: -1
+zhaozha_7
+  rotate: true
+  xy: 263, 4
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+zhaozha_8
+  rotate: false
+  xy: 323, 8
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+zhaozha_9
+  rotate: false
+  xy: 485, 12
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1

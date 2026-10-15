@@ -1,0 +1,20 @@
+
+play_btn.png
+size: 107,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+play_icon
+  rotate: false
+  xy: 1, 41
+  size: 105, 78
+  orig: 105, 78
+  offset: 0, 0
+  index: -1
+play_label
+  rotate: false
+  xy: 1, 1
+  size: 97, 38
+  orig: 97, 38
+  offset: 0, 0
+  index: -1

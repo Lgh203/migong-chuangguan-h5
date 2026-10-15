@@ -1,0 +1,20 @@
+
+chuansongDH.png
+size: 279,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light1
+  rotate: false
+  xy: 152, 16
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 1, 1
+  size: 149, 141
+  orig: 160, 141
+  offset: 6, 0
+  index: -1

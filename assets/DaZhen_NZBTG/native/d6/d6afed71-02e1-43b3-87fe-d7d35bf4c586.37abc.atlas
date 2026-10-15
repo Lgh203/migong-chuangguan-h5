@@ -1,0 +1,34 @@
+
+moregame.png
+size: 153,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game
+  rotate: true
+  xy: 90, 23
+  size: 71, 61
+  orig: 73, 63
+  offset: 1, 1
+  index: -1
+moregame
+  rotate: true
+  xy: 2, 7
+  size: 87, 86
+  orig: 89, 88
+  offset: 1, 1
+  index: -1
+qiuqiu
+  rotate: false
+  xy: 118, 2
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+wifi
+  rotate: false
+  xy: 90, 2
+  size: 26, 19
+  orig: 28, 21
+  offset: 1, 1
+  index: -1

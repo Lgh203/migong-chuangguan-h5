@@ -1,0 +1,48 @@
+
+bee.png
+size: 152,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 125, 4
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 106, 9
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+tentacles1
+  rotate: false
+  xy: 88, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+tentacles2
+  rotate: false
+  xy: 125, 23
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+wing
+  rotate: true
+  xy: 88, 17
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1

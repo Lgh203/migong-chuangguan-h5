@@ -1,0 +1,97 @@
+
+yanDH.png
+size: 570,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud1
+  rotate: true
+  xy: 434, 182
+  size: 194, 135
+  orig: 194, 135
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: true
+  xy: 1, 238
+  size: 279, 143
+  orig: 279, 143
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: true
+  xy: 146, 251
+  size: 266, 139
+  orig: 266, 139
+  offset: 0, 0
+  index: -1
+cloud4
+  rotate: false
+  xy: 287, 378
+  size: 265, 139
+  orig: 265, 139
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 228, 13
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+linght1
+  rotate: false
+  xy: 35, 11
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+linght2
+  rotate: false
+  xy: 173, 1
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+linght3
+  rotate: false
+  xy: 287, 270
+  size: 145, 106
+  orig: 145, 106
+  offset: 0, 0
+  index: -1
+linght4
+  rotate: false
+  xy: 338, 28
+  size: 191, 152
+  orig: 191, 152
+  offset: 0, 0
+  index: -1
+linght5
+  rotate: true
+  xy: 173, 47
+  size: 202, 163
+  orig: 202, 163
+  offset: 0, 0
+  index: -1
+linght6
+  rotate: true
+  xy: 1, 27
+  size: 209, 170
+  orig: 209, 170
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 19, 6
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 1, 5
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
